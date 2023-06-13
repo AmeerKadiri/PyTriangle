@@ -1,3 +1,10 @@
+"""
+Written on June 12 2023
+Created by Ameer Kadiri
+Description:
+This code...
+"""
+
 # Function definition to check validity
 def is_valid_triangle(a,b,c):
     if a+b>=c and b+c>=a and c+a>=b:
